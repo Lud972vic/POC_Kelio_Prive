@@ -359,16 +359,11 @@ Les tests couvrent notamment:
 ---
 
 ## Captures d’écran & diagrammes
-
-Vous pouvez ajouter ici des captures d’écran de l’interface ou des diagrammes d’architecture.
-
-Exemples (à adapter selon le dépôt GitHub) :
-
-```markdown
-
-```
-
-Pour un README GitHub, il est recommandé de placer les images dans un dossier `docs/` ou `public/` et d’utiliser des chemins relatifs.
+<img width="1531" height="1045" alt="Capture d’écran 2026-01-31 à 19 41 58" src="https://github.com/user-attachments/assets/b4ffa534-92a9-47db-98a1-cbf726f34d5e" />
+<img width="1531" height="1045" alt="Capture d’écran 2026-01-31 à 19 42 10" src="https://github.com/user-attachments/assets/cd8ca662-8d5d-48bd-b0f1-4a805d39edcf" />
+<img width="1531" height="1045" alt="Capture d’écran 2026-01-31 à 19 42 29" src="https://github.com/user-attachments/assets/872cc55b-e208-4e30-831c-9d8629668027" />
+<img width="1487" height="1001" alt="Capture d’écran 2026-01-31 à 19 43 13" src="https://github.com/user-attachments/assets/91f524e5-dc12-40d7-bf4a-e3e634dd5ded" />
+<img width="1487" height="1001" alt="Capture d’écran 2026-01-31 à 19 43 13" src="https://github.com/user-attachments/assets/c9de12d3-5c97-4478-8dbe-5416ac6a7d95" />
 
 ---
 
